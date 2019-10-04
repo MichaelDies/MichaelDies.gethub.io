@@ -1,2 +1,7 @@
 # MichaelDies.gethub.io
-aplicati diverse
+## aplicatii diverse
+
+## aplicatii HTML 5
+
+## aplicatii Android
+
